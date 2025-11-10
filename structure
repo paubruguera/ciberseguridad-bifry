@@ -1,0 +1,30 @@
+/ciberseguridad-bifry
+│
+├── README.md                          ← resumen general del portafolio
+│
+├── 01_declaracion_profesional/
+│   └── README.md                      ← tu presentación profesional
+│
+├── 02_auditoria_seguridad/
+│   └── README.md                      ← auditoría de seguridad
+│
+├── 03_estructura_redes/
+│   └── README.md                      ← análisis de red y seguridad
+│
+├── 04_linux_permisos/
+│   └── README.md                      ← comandos Linux y permisos
+│
+├── 05_sql_filtros/
+│   └── README.md                      ← consultas SQL y seguridad
+│
+├── 06_vulnerabilidades_pymes/
+│   └── README.md                      ← análisis de vulnerabilidades
+│
+├── 07_diario_incidentes/
+│   └── README.md                      ← registro de incidentes
+│
+├── 08_analisis_archivo_texto/
+│   └── README.md                      ← parsing y análisis sintáctico
+│
+└── 09_curriculum/
+    └── README.md                      ← tu CV o versión resumida
